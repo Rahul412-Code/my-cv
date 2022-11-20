@@ -1,0 +1,31 @@
+body{
+    background-color: powderblue; 
+}
+h1{
+    color: #66bfbf;
+}
+h3{
+    color: rgb(12, 100, 100);
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    color: grey;
+    border-width: 03px;
+    width: 10%;
+}
+img{
+    border-radius: 50px;    
+}
+a{
+    color: orange;
+    text-decoration-style: wavy;
+    font-style: oblique;
+}
+textarea{
+    background-color: teal;
+    border-style: dotted;
+    border-width: 05px;
+    border-color: orange;
+    border-radius: 10%;
+}
